@@ -1,0 +1,5 @@
+name_ask = input ('please input a name of at least 5 words:')
+print(name_ask)
+print(name_ask [1])
+print(name_ask [3])
+print(name_ask [5])
