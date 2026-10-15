@@ -1,0 +1,6 @@
+rectangle_width = input ('enter a width of a rectangle')
+rectangle_width = float (rectangle_width)
+rectangle_length = input ('enter a length of a rectangle')
+rectangle_length = float (rectangle_length)
+rectangle_overall = (rectangle_width + rectangle_length *2)
+print (rectangle_overall)

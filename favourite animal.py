@@ -1,0 +1,8 @@
+animal = input('enter your favourite animal:')
+print (animal)
+legs = input('how many legs does it have:')
+print (legs)
+eyes = input('how many eyes does the animal have:')
+print (eyes)
+pet = input('can you have it as a pet:')
+print (pet)
