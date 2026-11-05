@@ -1,0 +1,8 @@
+total = 0
+for number in range (0,4):
+    number = input ("enter a number")
+    number = int (number)
+    print(number)
+    total = total %2 == 0
+    print (total)
+    
